@@ -1,0 +1,11 @@
+f.  
+
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+    No se puede ver el archivo porque esta en otra ramas, y git se encarga de administrar qué archivos mostrar segun en qué rama nos encontremos
+
+En la línea principal agregue un nuevo archivo que se llame Respuestas.txt y haga
+el commit correspondiente ¿Qué diferencias nota?
+    Nos muestra que la rama principal ahora se ha adelantado a la rama secundaria
+
+En el Branch master se va a combinar (merge) ambos repositorios. ¿Qué nota?
+    Ahora se muestra la conbinacion de ambas ramas, generandose un solo punto apartir de aqui
